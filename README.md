@@ -1,0 +1,2 @@
+# SIT723
+A Repository for research project AI ENABLED MEDICINAL CANNABIS GREENHOUSE
